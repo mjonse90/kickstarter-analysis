@@ -1,3 +1,8 @@
-# kickstarter-analysis
-Completed analysis of Kickstarted data to discover trends
-Lots to take in here. Most important would be that higher goals tend to yield more failed campaigns. So it is highly suggested to bring your goal down a little. 
+# Kickstarter-Analysis
+## Overview
+This project is several charts and spreadsheets that displays various findings in Kickstarter fundraising efforts. The purpose of this project is to help my client, Louise, better understand a multitude of different outcomes from Kickstarter campaigns across the globe. In my findings, I display different routes taken by past campaigns and the results from those decisions. 
+## Analysis and Challenges
+After analyzing the data, several factors are easy to see. First, when looking at the Theater Outcomes Based on Launch Date chart, you will notice that there is a spike in both successful and failed campaigns during the summer months, with two other notable increases in both successful and failed campaigns in the months of February and October. Canceled campaigns remained very low throughout the year, indicating that it's equally possible anytime throughout the year for a campaign to be canceled. 
+When surveying the second chart titled Outcomes Based on Goal, another clear identifyer is that campaigns with lower goals have a higher probability of succeeding than higher goaled campaigns. Campaign goals between less than $1,000, between $1,000 and $4,999, and $5,000 and $9,999 all have higher successful and failed results than the remaining criteria combined. 
+## Results
+Based on the findings from my analysis, it's recommended that the best time to launch your campaign will be between the months of April and August, with a goal of around $10,000 or less. Also, if not possible to launch during the summer, February and October (likely Valentine's Day and Halloween, respectively) are good times to launch as well. 
